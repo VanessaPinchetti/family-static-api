@@ -15,14 +15,14 @@ class FamilyStructure:
         # example list of members
         self._members = [
              {
-		"first_name": "Nicolas",
+		"first_name": "Vanessa",
         "id": 3443,
-		"age": 25,
+		"age": 37,
 		"lucky_numbers": [34]
 	},
     {
-		"first_name": "Nataly",
-		"age": 25,
+		"first_name": "Daniela",
+		"age": 35,
         "id": 4446,
 		"lucky_numbers": [12,34,12]
 	}
