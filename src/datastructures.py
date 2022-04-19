@@ -22,10 +22,12 @@ class FamilyStructure:
 	},
     {
 		"first_name": "Daniela",
-		"age": 35,
+		"age": 30,
         "id": 4446,
 		"lucky_numbers": [12,34,12]
 	}
+
+    
         ]
 
     # read-only: Use this method to generate random members ID's when adding members into the list
